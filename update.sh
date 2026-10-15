@@ -14,9 +14,9 @@ END="<!-- PROJECTS:END -->"
 
 # Ordem de exibição (nome do repo, 2 por linha)
 REPOS=(
-  softgre getright zapbot closedcaption-parser dotfiles libinjection libkqueue
-  freeradius-server mod_auth_radius php-dhcpdleases BitcoinChecker
-  nginx-backtrace-ng isc-dhp-relay
+  softgre zapbot getright libclosedcaption php-dhcpdleases freeradius-server
+  dotfiles libinjection libkqueue mod_auth_radius BitcoinChecker nginx-backtrace-ng
+  isc-dhp-relay
 )
 
 DO_COMMIT=0; DO_PUSH=0

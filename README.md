@@ -25,6 +25,16 @@ and whenever I can, I'm climbing, mountain biking downhill or lifting things. �
       <a href="https://github.com/jpereira/softgre/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/softgre?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
+      <b><a href="https://github.com/jpereira/zapbot">zapbot</a></b>
+      <a href="https://github.com/jpereira/zapbot"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>🇧🇷🤖 Bot para WhatsApp escrito em Node.js que roda em cima de uma sessão real do WhatsApp Web</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square" alt="JavaScript"/>
+      <a href="https://github.com/jpereira/zapbot/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/zapbot?style=social" alt="stars"/></a>
+      <a href="https://github.com/jpereira/zapbot/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/zapbot?style=social" alt="forks"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/jpereira/getright">getright</a></b>
       <a href="https://github.com/jpereira/getright"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>📥 The classic GetRight download manager, straight from the good old Windows days and brought into the modern era! Just for fun!</sub><br/>
@@ -32,23 +42,31 @@ and whenever I can, I'm climbing, mountain biking downhill or lifting things. �
       <a href="https://github.com/jpereira/getright/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/getright?style=social" alt="stars"/></a>
       <a href="https://github.com/jpereira/getright/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/getright?style=social" alt="forks"/></a>
     </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/jpereira/libclosedcaption">libclosedcaption</a></b>
+      <a href="https://github.com/jpereira/libclosedcaption"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>🇧🇷🔌 Biblioteca em C para extrair o closed caption (legenda oculta) do padrão ISDB-Tb/SBTVD (ARIB STD-B24 / ABNT NBR 15606-1) a partir dos pacotes PES de legenda de um MPEG-TS</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-C-555555?style=flat-square" alt="C"/>
+      <a href="https://github.com/jpereira/libclosedcaption/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/libclosedcaption?style=social" alt="stars"/></a>
+      <a href="https://github.com/jpereira/libclosedcaption/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/libclosedcaption?style=social" alt="forks"/></a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jpereira/zapbot">zapbot</a></b>
-      <a href="https://github.com/jpereira/zapbot"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>🤖 Bot para WhatsApp escrito em Node.js que roda em cima de uma sessão real do WhatsApp Web</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square" alt="JavaScript"/>
-      <a href="https://github.com/jpereira/zapbot/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/zapbot?style=social" alt="stars"/></a>
-      <a href="https://github.com/jpereira/zapbot/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/zapbot?style=social" alt="forks"/></a>
+      <b><a href="https://github.com/jpereira/php-dhcpdleases">php-dhcpdleases</a></b>
+      <a href="https://github.com/jpereira/php-dhcpdleases"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>🔌 PHP parser for ISC DHCP dhcpd.leases files. Reads the leases, then filters, sorts and de-duplicates them, returning an array or JSON.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square" alt="PHP"/>
+      <a href="https://github.com/jpereira/php-dhcpdleases/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/php-dhcpdleases?style=social" alt="stars"/></a>
+      <a href="https://github.com/jpereira/php-dhcpdleases/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/php-dhcpdleases?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jpereira/closedcaption-parser">closedcaption-parser</a></b>
-      <a href="https://github.com/jpereira/closedcaption-parser"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>🔌 Biblioteca em C para extrair o closed caption (legenda oculta) do padrão ISDB-Tb/SBTVD (ARIB STD-B24 / ABNT NBR 15606-1) a partir dos pacotes PES de legenda de um MPEG-TS</sub><br/>
+      <b><a href="https://github.com/jpereira/freeradius-server">freeradius-server</a></b>
+      <a href="https://github.com/jpereira/freeradius-server"><img height="18" src="https://img.shields.io/badge/-Fork-lightgrey?style=flat-square" alt="Fork"/></a><br/>
+      <sub>The FreeRADIUS Server.  RADIUS, DHCP, and VMPS.</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-C-555555?style=flat-square" alt="C"/>
-      <a href="https://github.com/jpereira/closedcaption-parser/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/closedcaption-parser?style=social" alt="stars"/></a>
-      <a href="https://github.com/jpereira/closedcaption-parser/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/closedcaption-parser?style=social" alt="forks"/></a>
+      <a href="https://github.com/jpereira/freeradius-server/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/freeradius-server?style=social" alt="stars"/></a>
+      <a href="https://github.com/jpereira/freeradius-server/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/freeradius-server?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
@@ -79,30 +97,12 @@ and whenever I can, I'm climbing, mountain biking downhill or lifting things. �
       <a href="https://github.com/jpereira/libkqueue/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/libkqueue?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jpereira/freeradius-server">freeradius-server</a></b>
-      <a href="https://github.com/jpereira/freeradius-server"><img height="18" src="https://img.shields.io/badge/-Fork-lightgrey?style=flat-square" alt="Fork"/></a><br/>
-      <sub>The FreeRADIUS Server.  RADIUS, DHCP, and VMPS.</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-C-555555?style=flat-square" alt="C"/>
-      <a href="https://github.com/jpereira/freeradius-server/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/freeradius-server?style=social" alt="stars"/></a>
-      <a href="https://github.com/jpereira/freeradius-server/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/freeradius-server?style=social" alt="forks"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <b><a href="https://github.com/jpereira/mod_auth_radius">mod_auth_radius</a></b>
       <a href="https://github.com/jpereira/mod_auth_radius"><img height="18" src="https://img.shields.io/badge/-Fork-lightgrey?style=flat-square" alt="Fork"/></a><br/>
       <sub>The FreeRADIUS Apache module for RADIUS authentication</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-C-555555?style=flat-square" alt="C"/>
       <a href="https://github.com/jpereira/mod_auth_radius/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/mod_auth_radius?style=social" alt="stars"/></a>
       <a href="https://github.com/jpereira/mod_auth_radius/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/mod_auth_radius?style=social" alt="forks"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/jpereira/php-dhcpdleases">php-dhcpdleases</a></b>
-      <a href="https://github.com/jpereira/php-dhcpdleases"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>this a class used to process the fields of dhcpd.leases from ISC-DHCP</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square" alt="PHP"/>
-      <a href="https://github.com/jpereira/php-dhcpdleases/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/php-dhcpdleases?style=social" alt="stars"/></a>
-      <a href="https://github.com/jpereira/php-dhcpdleases/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/php-dhcpdleases?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
@@ -139,11 +139,21 @@ and whenever I can, I'm climbing, mountain biking downhill or lifting things. �
 
 ## What I do
 
-- Networking and protocols: RADIUS, DHCP, GRE, 802.1X/EAP.
-- C libraries and modules (nginx, Apache, kqueue, parsers).
-- Security: SQL injection detection, authentication.
-- Automation, bots and personal tools (Node.js, PHP, Python, Shell).
-- Dotfiles and homelab.
+- Leadership: technical lead, software development lead, team coordinator and principal engineer
+- Networking: RADIUS, DHCP, GRE, IPv6, 802.1X/EAP, captive portals
+- Embedded: Linux (OpenWrt, uClinux), ARM/MIPS, PIC, Raspberry Pi
+- Digital TV (DTV): ISDB standards, hardware/software and codecs
+- C/C++ libs and modules (nginx, Apache, kqueue, parsers)
+- Security: SQL injection detection, authentication, cryptography
+- DevOps: Docker, Vagrant, AWS, vSphere
+- Automation and tools: Node.js, PHP, Python, Lua, Perl, Shell
+- AI: LLMs, agents and AI-assisted dev (Claude Code, Codex)
+- Open source: FreeRADIUS today, GNOME in the past (GTK/GLib, **gtk-vnc**), plus many other
+  projects on my [GitHub](https://github.com/jpereira)
+- Off-keyboard: climbing 🧗, downhill MTB 🚵, lifting 🏋️ — from Rio de Janeiro 🇧🇷
+
+In the tech world since 1996. The full story is on my
+[LinkedIn](https://www.linkedin.com/in/jpereiran/).
 
 ## Contributions
 
@@ -157,6 +167,6 @@ Sometimes I'll make a small contribution because I'm considering using a project
 ## Connect
 
 - [GitHub](https://github.com/jpereira)
-- [Website](http://www.jorgepereira.com.br/)
+- [LinkedIn](https://www.linkedin.com/in/jpereiran)
 
 By the way, I also speak Portuguese! 🇧🇷
