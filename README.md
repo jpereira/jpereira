@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🔧 I work at [@NetworkRADIUS](https://networkradius.com/) and contribute to
-[@FreeRADIUS](https://github.com/FreeRADIUS/). Open source dev, blockchain enthusiast,
-and whenever I can, I'm climbing, mountain biking downhill or lifting things. 🧗🚵🏋️
+🔧 Currently on a sabbatical, focused on personal projects and building something
+innovative. Still contributing to the open source community.
+Open source dev, blockchain enthusiast, and whenever I can, I'm climbing, mountain biking
+downhill or lifting things. 🧗🚵🏋️
 
 <!-- Counters via shields.io (live). -->
 <a href="https://github.com/jpereira?tab=followers"><img height="24" src="https://img.shields.io/github/followers/jpereira?style=flat-square&logo=github&color=24292f" alt="followers"/></a>
@@ -45,7 +46,7 @@ and whenever I can, I'm climbing, mountain biking downhill or lifting things. �
     <td width="50%" valign="top">
       <b><a href="https://github.com/jpereira/libclosedcaption">libclosedcaption</a></b>
       <a href="https://github.com/jpereira/libclosedcaption"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>🇧🇷🔌 Biblioteca em C para extrair o closed caption (legenda oculta) do padrão ISDB-Tb/SBTVD (ARIB STD-B24 / ABNT NBR 15606-1) a partir dos pacotes PES de legenda de um MPEG-TS</sub><br/>
+      <sub>🔌 C library for extracting closed captions from the 🇧🇷 Brazilian ISDB-Tb/SBTVD standard (ARIB STD-B24 / ABNT NBR 15606-1) from subtitle PES packets in an MPEG transport stream (MPEG-TS).</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-C-555555?style=flat-square" alt="C"/>
       <a href="https://github.com/jpereira/libclosedcaption/stargazers"><img height="18" src="https://img.shields.io/github/stars/jpereira/libclosedcaption?style=social" alt="stars"/></a>
       <a href="https://github.com/jpereira/libclosedcaption/forks"><img height="18" src="https://img.shields.io/github/forks/jpereira/libclosedcaption?style=social" alt="forks"/></a>
